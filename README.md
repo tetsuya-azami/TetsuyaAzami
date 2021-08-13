@@ -11,6 +11,8 @@
 <div>
 <article>
 <h2 align="left">Port-folios</h2>
-  <img align="left" src="https://github.com/TetsuyaAzami/port-share" />
+<a href="https://github.com/TetsuyaAzami/port-share">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TetsuyaAzami&repo=port-share&theme=vue" />
+</a>
 </article>
 </div>
